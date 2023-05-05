@@ -1,0 +1,1 @@
+FlexFit is a project developed by three students at the Brandenburg University of Applied Sciences as part of the Elective module supervised by Professor Sasaki (Standar conform representation and processing of multilingual data).The task is to develop a multilingual application. For this, we used Vue.js as a framework.
